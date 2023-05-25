@@ -13,14 +13,14 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 
 # Contenidos
 
-* Introducción a la Visualización
-* ¿Qué visualizar? Abstracción de Datos
-* ¿Para qué visualizar? Abstracción de Tareas
-* ¿Cómo visualizar? Codificación Visual
-* Visualización de Tablas, Datos Geográficos y Espaciales
-* Visualización de Redes y Árboles
-* Colores e Ilusiones
-* Visualización de Texto y Reducción de Complejidad
+* Introducción a la Visualización [Clase 1](https://www.dropbox.com/sh/9elua1etmggqrhk/AAAfWGldZW5jvaaYM3cgeMJha?dl=0).
+* ¿Qué visualizar? Abstracción de Datos [Clase 2](https://www.dropbox.com/sh/z61mo34rn0nu93j/AAB-e8qwmosi30Q6AY1IHgtEa?dl=0).
+* ¿Para qué visualizar? Abstracción de Tareas [Clase 3](https://www.dropbox.com/sh/pxwj7wqvwy97nc1/AAA7rJzzUdJGxv0qcTASDHrda?dl=0).
+* ¿Cómo visualizar? Codificación Visual [Clase 4](https://www.dropbox.com/sh/yru5w4t6ytj5bq3/AABjN3JjGwfoUmixnDzNfVtda?dl=0).
+* Visualización de Tablas, Datos Geográficos y Espaciales [Clase 5](https://www.dropbox.com/).
+* Visualización de Redes y Árboles [Clase 6](https://www.dropbox.com/).
+* Colores e Ilusiones [Clase 7](https://www.dropbox.com/).
+* Visualización de Texto y Reducción de Complejidad [Clase 8](https://www.dropbox.com/).
 
 # Bibliografía Básica
 
