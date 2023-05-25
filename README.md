@@ -32,27 +32,21 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 
 # Recursos Informaticos
 
-** DESCRIPCIÓN ** : Análisis y Visualización, Educación y Soporte
+**DESCRIPCIÓN** : Análisis y Visualización, Educación y Soporte
 LINK		:  https://github.com/zorzalerrante/aves  
-FECHA VALIDACIÓN: 26/01/2023
 
-DESCRIPCIÓN	: Visualization Analysis and Design
+**DESCRIPCIÓN**	: Visualization Analysis and Design
 LINK		:  https://www.cs.ubc.ca/~tmm/vadbook/  
-FECHA VALIDACIÓN: 26/01/2023
 
-DESCRIPCIÓN	: Data Visualization I
+**DESCRIPCIÓN**	: Data Visualization I
 LINK		:  https://www.cs.ubc.ca/~tmm/courses/531-16/  
-FECHA VALIDACIÓN: 26/01/2023
 
-DESCRIPCIÓN	: Data Visualization II
+**DESCRIPCIÓN**	: Data Visualization II
 LINK		:  https://www.cs.ubc.ca/~tmm/courses/532-18/  
-FECHA VALIDACIÓN: 26/01/2023
 
-DESCRIPCIÓN	: Una publicación de Medium que comparte conceptos, ideas y códigos en torno a la ciencia de datos.
+**DESCRIPCIÓN**	: Una publicación de Medium que comparte conceptos, ideas y códigos en torno a la ciencia de datos.
 LINK		:  https://towardsdatascience.com/ 
-FECHA VALIDACIÓN: 26/01/2023
 
-DESCRIPCIÓN	: Data Visualization
+**DESCRIPCIÓN**	: Data Visualization
 LINK		:  https://weiglemc.github.io/teaching/2021-fall-cs625  
-FECHA VALIDACIÓN: 26/01/2023
 
