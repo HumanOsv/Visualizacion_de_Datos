@@ -32,7 +32,7 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 
 # Recursos Informaticos
 
-### DESCRIPCIÓN : Análisis y Visualización, Educación y Soporte
+** DESCRIPCIÓN ** : Análisis y Visualización, Educación y Soporte
 LINK		:  https://github.com/zorzalerrante/aves  
 FECHA VALIDACIÓN: 26/01/2023
 
