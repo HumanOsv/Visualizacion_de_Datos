@@ -25,7 +25,9 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 # Bibliografía Básica
 
 *Tamara Munzner*, Visualization Analysis and Design (2014), Madrid, A K Peters/CRC Press, 9781466508910
+
 *Alberto Cairo*, How Charts Lie: Getting Smarter about Visual Information (2019), EE.UU, University of Miami, 9780393358421
+
 *Kyran Dale*, Data Visualization with Python and JavaScript (2022), México, O'Reilly Media, Inc.,	9781098111878
 
 
