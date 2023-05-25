@@ -24,10 +24,35 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 
 # Bibliografía Básica
 
-*Tamara Munzner*, Visualization Analysis and Design (2014), Madrid, A K Peters/CRC Press, 9781466508910
+1- *Tamara Munzner*, Visualization Analysis and Design (2014), Madrid, A K Peters/CRC Press, 9781466508910
 
-*Alberto Cairo*, How Charts Lie: Getting Smarter about Visual Information (2019), EE.UU, University of Miami, 9780393358421
+2- *Alberto Cairo*, How Charts Lie: Getting Smarter about Visual Information (2019), EE.UU, University of Miami, 9780393358421
 
-*Kyran Dale*, Data Visualization with Python and JavaScript (2022), México, O'Reilly Media, Inc.,	9781098111878
+3- *Kyran Dale*, Data Visualization with Python and JavaScript (2022), México, O'Reilly Media, Inc.,	9781098111878
 
+# Recursos Informaticos
+
+### DESCRIPCIÓN ###	: Análisis y Visualización, Educación y Soporte
+LINK		:  https://github.com/zorzalerrante/aves  
+FECHA VALIDACIÓN: 26/01/2023
+
+DESCRIPCIÓN	: Visualization Analysis and Design
+LINK		:  https://www.cs.ubc.ca/~tmm/vadbook/  
+FECHA VALIDACIÓN: 26/01/2023
+
+DESCRIPCIÓN	: Data Visualization I
+LINK		:  https://www.cs.ubc.ca/~tmm/courses/531-16/  
+FECHA VALIDACIÓN: 26/01/2023
+
+DESCRIPCIÓN	: Data Visualization II
+LINK		:  https://www.cs.ubc.ca/~tmm/courses/532-18/  
+FECHA VALIDACIÓN: 26/01/2023
+
+DESCRIPCIÓN	: Una publicación de Medium que comparte conceptos, ideas y códigos en torno a la ciencia de datos.
+LINK		:  https://towardsdatascience.com/ 
+FECHA VALIDACIÓN: 26/01/2023
+
+DESCRIPCIÓN	: Data Visualization
+LINK		:  https://weiglemc.github.io/teaching/2021-fall-cs625  
+FECHA VALIDACIÓN: 26/01/2023
 
