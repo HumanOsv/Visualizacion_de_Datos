@@ -11,3 +11,21 @@ La asignatura de visualización de datos es un medio eficiente y eficaz para com
 
 En términos generales, la visualización de datos ayuda a convertir datos brutos, sin procesar en visualizaciones web dinámicas e interactivas, todo esto con ejemplos atractivos y haciendo hincapié en las mejores prácticas, esta guía enseña a aprovechar la potencia de las mejores bibliotecas de Python. Python proporciona bibliotecas accesibles, potentes y maduras para el scraping, la limpieza y el procesamiento de datos. Altitudinalmente se espera que el estudiante demuestre una disposición para cumplir los lineamientos y plazos establecidos, mantenga una conducta de respeto hacia las distintas opiniones y las consultas de carácter académico, también da importancia al aprendizaje de conceptos estadísticos que permiten abordar situaciones de análisis, para lograr su posterior resolución.
 
+# Contenidos
+
+* Introducción a la Visualización
+* ¿Qué visualizar? Abstracción de Datos
+* ¿Para qué visualizar? Abstracción de Tareas
+* ¿Cómo visualizar? Codificación Visual
+* Visualización de Tablas, Datos Geográficos y Espaciales
+* Visualización de Redes y Árboles
+* Colores e Ilusiones
+* Visualización de Texto y Reducción de Complejidad
+
+# Bibliografía Básica
+
+*Tamara Munzner*, Visualization Analysis and Design (2014), Madrid, A K Peters/CRC Press, 9781466508910
+*Alberto Cairo*, How Charts Lie: Getting Smarter about Visual Information (2019), EE.UU, University of Miami, 9780393358421
+*Kyran Dale*, Data Visualization with Python and JavaScript (2022), México, O'Reilly Media, Inc.,	9781098111878
+
+
