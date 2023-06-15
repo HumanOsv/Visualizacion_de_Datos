@@ -20,7 +20,7 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 * Visualización de Tablas [Clase 5](https://www.dropbox.com/sh/d89bqivihxlged8/AAASB6WKUgxLZ2WuaRAu7wDja?dl=0).
 * Visualización de Datos Geográficos y Espaciales [Clase 6](https://www.dropbox.com/sh/dg236qwrqtqinn5/AAA2YqNMHLrmY2vOh-fMiG0Ua?dl=0).
 * Visualización de Redes y Árboles [Clase 7](https://www.dropbox.com/sh/06ifmrwbp3n1lda/AABc2W8Vttb18zj8JrQWKPIha?dl=0).
-* Colores e Ilusiones [Clase 8](https://www.dropbox.com/).
+* Colores e Ilusiones [Clase 8](https://www.dropbox.com/sh/ld1zhncham0xalm/AAA2n33zhNAHNIsXSHTrXluwa?dl=0).
 * Visualización de Texto [Clase 9](https://www.dropbox.com/).
 * Reducción de Complejidad [Clase 10](https://www.dropbox.com/).
 
