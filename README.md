@@ -24,6 +24,13 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 * Visualización de Texto [Clase 9](https://www.dropbox.com/).
 * Reducción de Complejidad [Clase 10](https://www.dropbox.com/).
 
+# Proyecto Final
+
+* Rubrica proyecto final [link](https://www.dropbox.com/s/pwprp4wtx98s5uw/Rubrica_informe.pdf?dl=0).
+* Presentación formato paper [link](https://www.dropbox.com/s/6pdf9mxhj18r9i1/El_art%C3%ADculo_cient%C3%ADfico.ppsx?dl=0).
+* Plantilla formato articulo-cientifico [link](https://www.dropbox.com/s/znzdq3g8x3hjbs5/Plantilla_paper.doc?dl=0).
+* Ejemplos de articulos cientificos [link](https://www.dropbox.com/sh/xb3w2m3x4sw1g1v/AAD7f8afN8bRsw5we1lJJ_9ba?dl=0).
+
 # Bibliografía Básica
 
 1- *Tamara Munzner*, Visualization Analysis and Design (2014), Madrid, A K Peters/CRC Press, 9781466508910
