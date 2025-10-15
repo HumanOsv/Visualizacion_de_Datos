@@ -1,5 +1,9 @@
 # Visualizacion de Datos (MDS)
 
+![Last Commit](https://img.shields.io/github/last-commit/HumanOsv/DataScienceEngineering?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/HumanOsv/DataScienceEngineering)
+
+
 La asignatura de visualización de datos es un medio eficiente y eficaz para comunicar y mostrar grandes cantidades de información, pero el proceso de diseño puede parecer a menudo una tarea creativa inexplicable. En este curso se mostrará el proceso de diseño como un proceso lineal de toma de decisiones para codificar visualmente la información.  Para realizar esto se tomarán los siguientes puntos:
 
 * Conocer las clasificaciones de la visualización de datos: explicativa, exploratoria e híbrida. 
