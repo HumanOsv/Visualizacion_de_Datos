@@ -34,7 +34,7 @@ En términos generales, la visualización de datos ayuda a convertir datos bruto
 * Presentación formato paper [link](https://www.dropbox.com/s/6pdf9mxhj18r9i1/El_art%C3%ADculo_cient%C3%ADfico.ppsx?dl=0).
 * Plantilla formato articulo-cientifico [link](https://www.dropbox.com/s/znzdq3g8x3hjbs5/Plantilla_paper.doc?dl=0).
 * Ejemplos de articulos cientificos [link](https://www.dropbox.com/sh/xb3w2m3x4sw1g1v/AAD7f8afN8bRsw5we1lJJ_9ba?dl=0).
-* Ejemplos trabajo ex-alumnos [link]( ).
+* Ejemplo trabajo ex-alumnos [link](https://www.dropbox.com/scl/fi/lshk95bdz2e23mdexbhw5/paper_vd_oficial_final.pdf?rlkey=85vklkn3n0tyt49uuacmiwbxt&dl=0).
 
 # Bibliografía Básica
 
